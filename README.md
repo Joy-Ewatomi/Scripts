@@ -10,7 +10,7 @@ Collection of Python automation scripts built to streamline OSINT investigations
 
 **Philosophy:** Good investigators don't just use tools - they build them. These scripts transform time-consuming manual tasks into automated, repeatable processes.
 
-**Built by:** Joy Ewatomi | [ShadowNode Intelligence Agency](https://github.com/Joy-Ewatomi/Investigations)  
+**Built by:** Joy Ewatomi | [ShadowNode Intelligence Agency](https://github.com/Joy-Ewatomi/JoyEwatomi)  
 **Purpose:** Practical automation for real-world investigations
 
 
@@ -44,13 +44,13 @@ pip (Python package manager)
 Installation
 # Clone the repository
 git clone https://github.com/Joy-Ewatomi/scripts.git
-cd domain-analyzer
+cd scripts
 
 # Install dependencies
 pip install -r requirements.txt
 Quick Start
 # Run domain analyzer
-python domain_analyzer.py
+python domain-analyzer.py
 ````
 ## Roadmap
 Current Tools (Phase 1: Days 1-30)
