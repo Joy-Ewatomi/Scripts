@@ -53,14 +53,14 @@ Quick Start
 python domain-analyzer.py
 ````
 ## Roadmap
-Current Tools (Phase 1: Days 1-30)        
+**Current Tools (Phase 1: Days 1-30)**         
 ✅ Domain Intelligence Analyzer.    
-Upcoming Tools (Phase 2: Days 31-60).    
+**Upcoming Tools (Phase 2: Days 31-60).** 
 ⏳ Email verification & breach checker.  
 ⏳ Username enumeration automation.  
 ⏳ Bulk WHOIS lookup tool.  
 ⏳ Phone number OSINT analyzer.  
-Advanced Tools (Phase 3: Days 61-90).    
+**Advanced Tools (Phase 3: Days 61-90).**  
 ⏳ Multi-source data correlation engine.  
 ⏳ Automated report generator.  
 ⏳ Dark web monitoring alerts.   
@@ -99,7 +99,7 @@ Stay within legal boundaries.
 Building ShadowNode Intelligence Agency - Independent cybersecurity investigation firm launching September 2026.     
 LinkedIn: Joy Ewatomi.     
 Twitter: @joy_Elvera.     
-Investigation Portfolio: [View Cases](../investigations/).     
+Investigation Portfolio: [View Cases](https://github.com/Joy-Ewatomi/investigations.git).    
 Email: joravytech@gmail.com.     
 ## 📊 Stats
 Tools Built: 1 (and growing).     
