@@ -99,7 +99,7 @@ Stay within legal boundaries.
 Building ShadowNode Intelligence Agency - Independent cybersecurity investigation firm launching September 2026.     
 LinkedIn: Joy Ewatomi.     
 Twitter: @joy_Elvera.     
-Investigation Portfolio: [View Cases](./investigations/).     
+Investigation Portfolio: [View Cases](../investigations/).     
 Email: joravytech@gmail.com.     
 ## 📊 Stats
 Tools Built: 1 (and growing).     
