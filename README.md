@@ -53,19 +53,19 @@ Quick Start
 python domain-analyzer.py
 ````
 ## Roadmap
-Current Tools (Phase 1: Days 1-30)
-✅ Domain Intelligence Analyzer
-Upcoming Tools (Phase 2: Days 31-60)
-⏳ Email verification & breach checker
-⏳ Username enumeration automation
-⏳ Bulk WHOIS lookup tool
-⏳ Phone number OSINT analyzer
-Advanced Tools (Phase 3: Days 61-90)
-⏳ Multi-source data correlation engine
-⏳ Automated report generator
-⏳ Dark web monitoring alerts
-⏳ IP geolocation mapper
-💡 Philosophy
+Current Tools (Phase 1: Days 1-30)        
+✅ Domain Intelligence Analyzer.    
+Upcoming Tools (Phase 2: Days 31-60).    
+⏳ Email verification & breach checker.  
+⏳ Username enumeration automation.  
+⏳ Bulk WHOIS lookup tool.  
+⏳ Phone number OSINT analyzer.  
+Advanced Tools (Phase 3: Days 61-90).    
+⏳ Multi-source data correlation engine.  
+⏳ Automated report generator.  
+⏳ Dark web monitoring alerts.   
+⏳ IP geolocation mapper.  
+💡 Philosophy.  
 ## Why build from scratch?
 Understanding - Building tools teaches you how they work
 Customization - Tailor solutions to specific investigation needs
@@ -73,39 +73,38 @@ Independence - Never rely on tools that might disappear or become paid
 Scale - Automation turns 4-hour tasks into 15-minute tasks
 Learning approach: Each tool solves a real problem I encountered during investigations. No theoretical exercises - only practical solutions.
 ## 🤝 Contributing
-This is a learning journey repository, but feedback and suggestions are welcome!
-Ways to contribute:
-Report bugs or issues
-Suggest new tool ideas
-Share use cases or improvements
+This is a learning journey repository, but feedback and suggestions are welcome!       
+Ways to contribute:         
+Report bugs or issues.    
+Suggest new tool ideas.    
+Share use cases or improvements.    
 
 ## ⚖️ Legal & Ethics
-Important: These tools are for:
-✅ Legal OSINT research using publicly available information
-✅ Educational purposes and skill development
-✅ Authorized security assessments
-✅ Personal investigations within legal boundaries
-## Not for:
-❌ Unauthorized access to systems
-❌ Privacy violations
-❌ Harassment or stalking
-❌ Any illegal activities
+Important: These tools are for:          
+✅ Legal OSINT research using publicly available information.    
+✅ Educational purposes and skill development.     
+✅ Authorized security assessments.    
+✅ Personal investigations within legal boundaries.    
+## Not for:       
+❌ Unauthorized access to systems.    
+❌ Privacy violations.   
+❌ Harassment or stalking.    
+❌ Any illegal activities.    
 ## Always:
-Respect privacy laws and terms of service
-Obtain proper authorization for investigations
-Use ethical research practices
-Stay within legal boundaries
+Respect privacy laws and terms of service.   
+Obtain proper authorization for investigations.   
+Use ethical research practices.   
+Stay within legal boundaries.    
 ## 📫 Connect
-Building ShadowNode Intelligence Agency - Independent cybersecurity investigation firm launching September 2026.
-LinkedIn: Joy Ewatomi
-Twitter: @joy_Elvera
-Investigation Portfolio: [View Cases](./investigations/)
-Email: joravytech@gmail.com
+Building ShadowNode Intelligence Agency - Independent cybersecurity investigation firm launching September 2026.     
+LinkedIn: Joy Ewatomi.     
+Twitter: @joy_Elvera.     
+Investigation Portfolio: [View Cases](./investigations/).     
+Email: joravytech@gmail.com.     
 ## 📊 Stats
-Tools Built: 1 (and growing)
-Lines of Code: 100+
-Investigation Hours Saved: TBD
-Languages: Python
+Tools Built: 1 (and growing).     
+Investigation Hours Saved: TBD.     
+Languages: Python.   
 ## 📝 License
 MIT License - Free to use, modify, and distribute with attribution.
 Automation is the difference between handling 3 cases and 30 cases.
